@@ -1,6 +1,6 @@
 # 🏡 Real Estate Analytics Dashboard | Power BI
 
-![Real Estate Analytics Dashboard](https://www.gssprojects.in/wp-content/uploads/2022/09/real-estate-company-in-Mysore.jpg)
+![Real Estate Analytics Dashboard](https://www.confident-group.com/wp-content/uploads/2025/03/commercial-real-estate-investing-1024x683.jpg)
 
 ## 📌 Project Overview
 This Power BI project provides a comprehensive analysis of the real estate market, covering **property sales, pricing trends, agent performance, neighborhood insights, and commercial office analytics**.  
